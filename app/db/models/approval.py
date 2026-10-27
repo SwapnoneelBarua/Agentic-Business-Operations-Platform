@@ -1,0 +1,1 @@
+"""Approval database model."""

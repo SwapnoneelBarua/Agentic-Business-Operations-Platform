@@ -1,0 +1,2 @@
+ticket_id,customer_id,subject,priority,status
+T-1001,C-001,Unable to access account,high,open

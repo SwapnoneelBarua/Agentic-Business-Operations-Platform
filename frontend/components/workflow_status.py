@@ -1,0 +1,1 @@
+"""Workflow status display component."""

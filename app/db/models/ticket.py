@@ -1,0 +1,1 @@
+"""Ticket database model."""
